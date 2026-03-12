@@ -1,2 +1,2 @@
 # Sistema-de-Cine
-Código 1
+Cine
